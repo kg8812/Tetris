@@ -1,4 +1,4 @@
-<img width="1918" height="1077" alt="image" src="https://github.com/user-attachments/assets/f83d0037-ef5f-4e0e-8603-f644c6ed64cd" /># Tetris
+# Tetris
 
 유니티를 처음 시작할 때 만들어본 테트리스 게임입니다.
 
@@ -45,13 +45,13 @@
 
 ---
 
-## 🎥 플레이 영상
+## 플레이 영상
 
 > ([영상 링크](https://www.youtube.com/watch?v=rxVpdLLOfOI))
 
 ---
 
-## 🎮 다운로드
+## 다운로드
 
 ([게임 다운로드](https://github.com/kg8812/Tetris/releases/tag/Release))
 
