@@ -47,7 +47,7 @@
 
 ## 플레이 영상
 
-> ([영상 링크](https://www.youtube.com/watch?v=rxVpdLLOfOI))
+([영상 링크](https://www.youtube.com/watch?v=rxVpdLLOfOI))
 
 ---
 
@@ -55,4 +55,4 @@
 
 ([게임 다운로드](https://github.com/kg8812/Tetris/releases/tag/Release))
 
-> 압축 해제 후 .exe 파일을 실행하면 플레이할 수 있습니다.
+압축 해제 후 .exe 파일을 실행하면 플레이할 수 있습니다.
